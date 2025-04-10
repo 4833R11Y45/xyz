@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyc
+data/*
+models/*
+*.pdf
+*.xlsx
+code/tests/__pycache__/
+code/tests/.pytest_cache/
+code/tests/models
